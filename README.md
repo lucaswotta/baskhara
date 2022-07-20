@@ -1,2 +1,2 @@
-# baskhara
-3 formas de criar a fórmula de baskhara com java.Software para execução de equações de 2° grau
+# Baskhara
+Execução de equações de 2° grau sendo definida de 3 formas com a inclusão de método via POO.
