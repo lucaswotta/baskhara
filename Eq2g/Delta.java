@@ -28,7 +28,7 @@ public class Delta extends Equacao {
 
     public void validaDelta() {
         if (delta <= 0) {
-            System.err.println("O Delta é Negativo!");
+            System.err.println("O Delta é Negativo ou Nulo!");
             System.exit(404);
         }
     }
